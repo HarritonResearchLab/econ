@@ -29,7 +29,7 @@ for position in range(0, max_index):
     name_index = 0 + 6*position 
     sector_index = 1 + 6*position
     rank_index = 3 + 6*position 
-    worth_index + 4 + 6*position
+    worth_index = 4 + 6*position
 
     names.append(content_list[name_index].replace('\n',''))
     sectors.append(content_list[sector_index].replace('\n',''))
@@ -38,7 +38,7 @@ for position in range(0, max_index):
 
 zipped = list(zip(names,ranks,worths,sectors))
 df = pd.DataFrame(zipped, columns=['name','rank','worth','sector'])
-df.to_csv('2017_clean.csv', index=False)
+df.to_csv(r'C:\Users\Research\Documents\GitHub\econ\billionaires\australia\2017_clean.csv', index=False)
 
 
 
