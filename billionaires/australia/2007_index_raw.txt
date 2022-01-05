@@ -1,0 +1,457 @@
+Rank Individuals $m
+
+1 James Packer 7250
+
+2 Frank Lowy 6510
+
+3 Richard Pratt 5400
+
+4 Gina Rinehart 4000
+
+5 Andrew Forrest 3890
+
+
+Advertisement
+6 Kerr Neilson 3530
+
+7 Harry Triguboff 3000
+
+8 Shi Zhengrong 2870
+
+9 Kerry Stokes 2710
+
+10 David Hains 2620
+
+11 Len Ainsworth 2300
+
+12 John Gandel 2260
+
+13 Lang Walker 1900
+
+14 Gerry Harvey 1850
+
+15 Len Buckeridge 1550
+
+16 Stan Perron 1460
+
+17 Terrence Peabody 1440
+
+18 Bob Oatley 1400
+
+19 John B. Fairfax & Timothy Fairfax 1390
+
+21 Solomon Lew 1320
+
+22 Bruce Gordon 1290
+
+23 Lindsay Fox 1290
+
+24 John Van Lieshout 1250
+
+25 Paul Ramsay 1150
+
+26 Bruce Mathieson 1100
+
+27 Angela Bennett & Michael Wright 1100
+
+29 Carlo Salteri 1040
+
+30 Bob Ell 1030
+
+31 John Grill 1020
+
+32 Clive Palmer 1000
+
+33 Ralph Sarich 950
+
+34 Mark Rowsthorn & Peter Rowsthorn 925
+
+36 Ian Norman 921
+
+37 Gordon Merchant 904
+
+38 Con Makris & Ross Makris 883
+
+40 Paul Little 876
+
+41 Maurice Alter 868
+
+42 Greg Poche 860
+
+43 Reg Grundy 805
+
+44 Bruno Grollo 801
+
+45 Lloyd Williams 765
+
+46 Peter Gunn 748
+
+47 Tom Hedley 715
+
+48 Alan Rydge 710
+
+49 John Kinghorn 700
+
+50 David Goldberger & David Wieland 675
+
+52 Chris Morris 651
+
+53 David Barro 649
+
+54 Tony Perich 641
+
+55 Bill Roche & Imelda Roche 624
+
+57 Peter Scanlon 617
+
+58 Terry Snow 610
+
+59 Naomi Milgrom 604
+
+60 Michael Hintze 600
+
+61 Kevin Seymour 598
+
+62 John Symond 591
+
+63 Denis Jen 589
+
+64 Jack Cowin 584
+
+65 Jack Bendat 580
+
+66 Gordon Fu 574
+
+67 Ric Stowe 560
+
+68 Bill Paterson 546
+
+69 Frank Hargrave 544
+
+70 Allan Scott 515
+
+71 Sam Tarascio 500
+
+72 Jeff Chapman 500
+
+73 Jan Cameron 470
+
+74 Ken Talbot 465
+
+75 Grahame Mapp 465
+
+76 Ron Walker 453
+
+77 Brian Singer & Doug Warbrick 450
+
+79 Maha Sinnathamby 445
+
+80 John Kahlbetzer 442
+
+81 Phil Green 442
+
+82 Gordon Martin 440
+
+83 Kerry Harmanis 433
+
+84 Charlotte Vidor & Ervin Vidor 430
+
+86 Doug Rathbone 421
+
+87 Nigel Satterley 420
+
+88 Nathan Werdiger 417
+
+89 Reg Rowe 408
+
+90 John Longhurst 404
+
+91 Morry Fraid & Ruben Fried 403
+
+93 Sam Sarin 400
+
+94 Tony Lennon 400
+
+95 Alan Green & John Law 391
+
+97 Iris Lustig & Max Moar 388
+
+99 Edmund Bateman 380
+
+100 David Coe 380
+
+101 Andrew Abercrombie 379
+
+102 Peter Meurs 374
+
+103 Philip Adams & Michael King 370
+
+105 Danny Hill 364
+
+106 Robert Gerard 363
+
+107 Bruce Neill 353
+
+108 Cyril Maloney 353
+
+109 Tony Wales 352
+
+110 Theo Karedis 352
+
+111 Robert Magid 350
+
+112 Michael Boyd 350
+
+113 Philip Sullivan 339
+
+114 Max Beck 337
+
+115 David Burger 330
+
+116 Tony D¿Antonio Peter Hosking 327
+
+118 James Fairfax 326
+
+119 Greg Norman 325
+
+120 Roc Kirby 325
+
+121 George Koukis 317
+
+122 Graham Turner 315
+
+123 Andrew Banks Geoff Morgan 315
+
+125 Frank Costa 312
+
+126 John Ilhan 310
+
+127 Robert Whyte 304
+
+128 Mary Fairfax 304
+
+129 Brett Blundy 301
+
+130 Rino Grollo 300
+
+131 Steven Eckowitz 300
+
+132 Mark Creasy 300
+
+133 Clive Berghofer 300
+
+134 Geoff Harris 299
+
+135 John Singleton 295
+
+136 Edmund Groves 295
+
+137 Spiros Stamoulis 294
+
+138 Dick Honan 288
+
+139 Charles Curran 286
+
+140 Peter Mattick Philip Salter 281
+
+142 Chris Scott 280
+
+143 David Bartter Peter Bartter 280
+
+145 Tony Haggarty 279
+
+146 John Beville 277
+
+147 Doug Shears 267
+
+148 Alf Moufarrige 265
+
+149 Bill James 262
+
+150 Shaun Bonett 260
+
+151 Tony Poli 260
+
+152 Lynette Harvey 260
+
+153 Paul Stoddart 255
+
+154 Barry Lambert 252
+
+155 David Duchen Paul Duchen 252
+
+157 Hagen Stehr 251
+
+158 Graeme Wood 251
+
+159 Angus Grinham Richard Grinham 250
+
+161 Peter Hofbauer 249
+
+162 Ezriel Rabinowicz 245
+
+163 Laurence Freedman 242
+
+164 Doug Moran 238
+
+165 Nicole Kidman 237
+
+166 Anton Tagliaferro 231
+
+167 Michael Buxton 227
+
+168 Ken Lee 225
+
+169 John Reid 224
+
+170 David Mandie 222
+
+171 George Kepper 221
+
+172 Gary Pemberton 220
+
+173 Andrea Evans 218
+
+174 Ian McMullin 216
+
+175 Michael Maxwell 214
+
+176 David Shein 212
+
+177 Allen Hansen 211
+
+178 Robert Maple-Brown 210
+
+179 Chris Ellis 210
+
+180 Hugh Maclachlan 205
+
+181 Janet Holmes a Court 205
+
+182 John Borshoff 205
+
+183 Julian Tertini 204
+
+184 Nick Mitris 201
+
+185 Jeremy Reid 200
+
+186 Peter Hill Stephen Hill 200
+
+188 Peter Higgins Rod Higgins 200
+
+190 Michael Gordon 200
+
+191 Mark Bouris 200
+
+192 Chris Aylward 200
+
+193 Brian Sherman 200
+
+194 Philip Cornish 193
+
+195 Robert de Crespigny 192
+
+196 Phillip Wolanski 190
+
+197 Terry Morris 190
+
+198 Andrew Clifford 185
+
+199 Craig Gore 180
+
+200 Bill Bowness 180
+
+RANK FAMILIES $m
+
+1 Smorgon 2450
+
+2 Wilson 1700
+
+3 Liberman 1700
+
+4 Goodman 1600
+
+5 Besen 1500
+
+6 Myer 1450
+
+7 Roberts 1310
+
+8 Tieck 965
+
+9 Ingham 880
+
+10 Belgiorno-Nettis 800
+
+11 Saunders 775
+
+12 Millner 730
+
+13 Wyllie 700
+
+14 Hannan 688
+
+15 Darling 651
+
+16 Casella 600
+
+17 Anderson 552
+
+18 Lewis 535
+
+19 Spooner 448
+
+20 Juniper 444
+
+21 Farrell 427
+
+22 Knowles 412
+
+23 Menegazzo 373
+
+24 Baillieu 358
+
+25 Saragossi 350
+
+26 Paspaley 350
+
+27 Kantor 350
+
+28 Fleming 350
+
+29 Calvert-Jones 335
+
+30 Valmorbida 330
+
+31 Kornhauser 310
+
+32 McWilliam 296
+
+33 Inge 290
+
+34 Withers 285
+
+35 David 268
+
+36 Sutton 253
+
+37 Schwartz 253
+
+38 Scheinberg 253
+
+39 Handbury 247
+
+40 Laidlaw 244
+
+41 Richards 236
+
+42 Kirby 226
+
+43 Albert 222
+
+44 Roche 220
+
+45 Chan 220
+
+46 Roth 193
